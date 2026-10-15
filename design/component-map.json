@@ -1,0 +1,53 @@
+{
+  "fileKey": "3rir6pPbp3xRWsjraTZyek",
+  "framework": "React",
+  "status": "local-mapping",
+  "codeConnectAvailable": false,
+  "components": [
+    {
+      "name": "Button",
+      "nodeId": "3:26",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "Badge",
+      "nodeId": "3:35",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "Input",
+      "nodeId": "3:44",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "NavItem",
+      "nodeId": "3:49",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "MetricCard",
+      "nodeId": "3:50",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "Callout",
+      "nodeId": "3:54",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "SourceCard",
+      "nodeId": "3:57",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "ReferenceRow",
+      "nodeId": "3:63",
+      "source": "src/components/ui.tsx"
+    },
+    {
+      "name": "SectionHeading",
+      "nodeId": "3:68",
+      "source": "src/components/ui.tsx"
+    }
+  ]
+}

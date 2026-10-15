@@ -1,0 +1,134 @@
+{
+  "status": "verified",
+  "variables": 63,
+  "semanticAliases": 19,
+  "invalidVariables": 0,
+  "components": [
+    {
+      "id": "3:26",
+      "name": "Button",
+      "type": "COMPONENT_SET",
+      "variants": 12,
+      "properties": ["Label#3:0", "Style", "State"],
+      "description": "Terra/Button. Variáveis semânticas compartilhadas com src/design-system/tokens.json. Estados para navegação por teclado e leitura clara."
+    },
+    {
+      "id": "3:35",
+      "name": "Badge",
+      "type": "COMPONENT_SET",
+      "variants": 4,
+      "properties": ["Label#3:13", "Tone"],
+      "description": "Terra/Badge. Variáveis semânticas compartilhadas com src/design-system/tokens.json. Estados para navegação por teclado e leitura clara."
+    },
+    {
+      "id": "3:44",
+      "name": "Input",
+      "type": "COMPONENT_SET",
+      "variants": 4,
+      "properties": ["Label#3:18", "State"],
+      "description": "Terra/Input. Variáveis semânticas compartilhadas com src/design-system/tokens.json. Estados para navegação por teclado e leitura clara."
+    },
+    {
+      "id": "3:49",
+      "name": "NavItem",
+      "type": "COMPONENT_SET",
+      "variants": 2,
+      "properties": ["Label#3:23", "State"],
+      "description": "Terra/NavItem. Variáveis semânticas compartilhadas com src/design-system/tokens.json. Estados para navegação por teclado e leitura clara."
+    },
+    {
+      "id": "3:50",
+      "name": "MetricCard",
+      "type": "COMPONENT",
+      "variants": 1,
+      "properties": ["Label#3:26", "Value#3:27", "Detail#3:28"],
+      "description": "Terra/MetricCard — src/components/ui.tsx"
+    },
+    {
+      "id": "3:54",
+      "name": "Callout",
+      "type": "COMPONENT",
+      "variants": 1,
+      "properties": ["Title#3:29", "Description#3:30"],
+      "description": "Terra/Callout — src/components/ui.tsx"
+    },
+    {
+      "id": "3:57",
+      "name": "SourceCard",
+      "type": "COMPONENT",
+      "variants": 1,
+      "properties": ["Name#3:31", "Count#3:32", "Detail#3:33", "Action#3:34"],
+      "description": "Terra/SourceCard — src/components/ui.tsx"
+    },
+    {
+      "id": "3:63",
+      "name": "ReferenceRow",
+      "type": "COMPONENT",
+      "variants": 1,
+      "properties": [
+        "ID#3:35",
+        "Title#3:36",
+        "Deduplication#3:37",
+        "Decision#3:38"
+      ],
+      "description": "Terra/ReferenceRow — src/components/ui.tsx"
+    },
+    {
+      "id": "3:68",
+      "name": "SectionHeading",
+      "type": "COMPONENT",
+      "variants": 1,
+      "properties": ["Title#3:39", "Description#3:40"],
+      "description": "Terra/SectionHeading — src/components/ui.tsx"
+    }
+  ],
+  "models": [
+    {
+      "id": "4:2",
+      "name": "Overview · Desktop 1440",
+      "width": 1440,
+      "height": 1638,
+      "descendants": 123,
+      "counts": {
+        "FRAME": 22,
+        "TEXT": 74,
+        "VECTOR": 12,
+        "INSTANCE": 15
+      },
+      "imageNodes": 0,
+      "fonts": ["Lora", "DM Sans"]
+    },
+    {
+      "id": "4:122",
+      "name": "Overview · Mobile 390",
+      "width": 390,
+      "height": 2814,
+      "descendants": 84,
+      "counts": {
+        "FRAME": 11,
+        "TEXT": 61,
+        "INSTANCE": 12
+      },
+      "imageNodes": 0,
+      "fonts": ["DM Sans", "Lora"]
+    },
+    {
+      "id": "4:207",
+      "name": "References · Desktop 1440",
+      "width": 1440,
+      "height": 1400,
+      "descendants": 92,
+      "counts": {
+        "FRAME": 19,
+        "TEXT": 46,
+        "VECTOR": 12,
+        "INSTANCE": 15
+      },
+      "imageNodes": 0,
+      "fonts": ["Lora", "DM Sans"]
+    }
+  ],
+  "limitations": [
+    "Code Connect requires Organization or Enterprise plan; local source mappings are documented."
+  ]
+}

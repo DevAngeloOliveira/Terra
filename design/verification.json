@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "routes": ["/", "/relatorio", "/referencias", "/design-system"],
+  "checks": [
+    "Original audit JSON unchanged",
+    "All academic report content preserved",
+    "733 references rendered",
+    "19 PubMed / 20 BVS / 694 Scholar",
+    "43 duplicates / 690 retained",
+    "Combined filters, canonical ID search, empty state, filter reset",
+    "Full JSON download with active filters",
+    "All report anchors resolve",
+    "Desktop/mobile pages have no horizontal overflow",
+    "Mobile menu, focus restoration and Escape",
+    "Print styles",
+    "Self-hosted Lora and DM Sans loaded",
+    "No browser errors",
+    "AA contrast for semantic text pairs"
+  ],
+  "contrasts": [
+    {
+      "foreground": "text/primary",
+      "background": "bg/canvas",
+      "ratio": 14.16
+    },
+    {
+      "foreground": "text/muted",
+      "background": "bg/canvas",
+      "ratio": 5.8
+    },
+    {
+      "foreground": "text/secondary",
+      "background": "bg/surface",
+      "ratio": 11.53
+    },
+    {
+      "foreground": "text/inverse",
+      "background": "brand/default",
+      "ratio": 8.17
+    },
+    {
+      "foreground": "status/success-text",
+      "background": "status/success-bg",
+      "ratio": 5.63
+    },
+    {
+      "foreground": "status/warning-text",
+      "background": "status/warning-bg",
+      "ratio": 5.41
+    },
+    {
+      "foreground": "status/error-text",
+      "background": "status/error-bg",
+      "ratio": 5.62
+    }
+  ]
+}

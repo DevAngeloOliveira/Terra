@@ -1,0 +1,67 @@
+{
+  "runId": "equilibrio-terra-2026-10-15",
+  "scope": "full-library",
+  "fileKey": "3rir6pPbp3xRWsjraTZyek",
+  "fileUrl": "https://www.figma.com/design/3rir6pPbp3xRWsjraTZyek",
+  "pages": {
+    "foundations": "0:1",
+    "components": "2:75",
+    "screens": "2:76"
+  },
+  "showcases": {
+    "foundations": "2:77",
+    "components": "3:71"
+  },
+  "components": {
+    "Button": "3:26",
+    "Badge": "3:35",
+    "Input": "3:44",
+    "NavItem": "3:49",
+    "MetricCard": "3:50",
+    "Callout": "3:54",
+    "SourceCard": "3:57",
+    "ReferenceRow": "3:63",
+    "SectionHeading": "3:68"
+  },
+  "models": [
+    {
+      "id": "4:2",
+      "name": "Overview · Desktop 1440",
+      "width": 1440,
+      "height": 1638
+    },
+    {
+      "id": "4:122",
+      "name": "Overview · Mobile 390",
+      "width": 390,
+      "height": 2814
+    },
+    {
+      "id": "4:207",
+      "name": "References · Desktop 1440",
+      "width": 1440,
+      "height": 1400
+    }
+  ],
+  "completedSteps": [
+    "discovery",
+    "foundations",
+    "component-library",
+    "desktop-mobile-models",
+    "local-code-integration",
+    "visual-QA",
+    "browser-functional-QA"
+  ],
+  "pendingValidations": [],
+  "codeConnect": {
+    "status": "unavailable",
+    "reason": "Organization or Enterprise plan required by Figma",
+    "mappingFile": "component-map.json"
+  },
+  "stateDetails": [
+    "figma-foundations-state.json",
+    "figma-components-state.json",
+    "figma-screens-state.json",
+    "figma-verification.json"
+  ]
+}
